@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api" },  // API requests ke liye rewrite
-    { "source": "/(.*)", "destination": "/" }  // Front-end requests ke liye rewrite
+    { "source": "/api/(.*)", "destination": "/api" },  
+    { "source": "/(.*)", "destination": "/" } 
   ]
 }
