@@ -1,0 +1,35 @@
+# GitHub and YouTube OAuth2 Integration
+
+## Description
+This project implements OAuth2 authentication for GitHub and YouTube, allowing users to log in using their accounts for a personalized experience.
+
+## Access Requirements
+Access is restricted to users who are subscribed to **B.Y.T.E.**'s YouTube channel or following the **B.Y.T.E.** GitHub account.
+
+## Features
+- OAuth2 Authentication
+- API Integration with GitHub and YouTube
+- Dynamic User Interface
+- Robust Backend using Node.js and Express.js
+
+## Technologies Used
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- APIs: GitHub API, YouTube API
+- Authentication: Passport.js with OAuth2
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+
+#INSTALL DEPENDENCIES
+npm install
+##Set up environment variables in a .env file.
+#start server 
+npm start
+Usage
+->Open the application in your browser.
+->Log in using GitHub or YouTube.
+
+Feel free to adjust any parts as needed!
